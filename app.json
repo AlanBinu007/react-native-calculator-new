@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "A Modern Calculator",
+    "name": "Calculator App",
     "slug": "calculator",
     "privacy": "public",
     "sdkVersion": "32.0.0",
